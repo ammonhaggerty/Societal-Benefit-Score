@@ -98,7 +98,7 @@ Features are split between **white hat** and **black hat** value, and either rec
 
 ---
 
-## 3) Threads
+## 3) `Threads`
 
 |Feature|Presence|Strength|Multiplier|Calculation|
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ Features are split between **white hat** and **black hat** value, and either rec
 |Streaks|–|0|–1|0|
 |FOMO|•|1|–2|–2|
 |Infinite scroll|✓|2|–1|–2|
-|Autoplay|–|0|–1|0|
+|Autoplay|✓|2|–1|-2|
 |Social pressure|•|1|–2|–2|
 |Location sharing|–|0|–2|0|
 |Celebrity/Influencer culture|•|1|–2|–2|
@@ -120,11 +120,8 @@ Features are split between **white hat** and **black hat** value, and either rec
 |Mob mentality|–|0|–5|0|
 
 **Positives = 0**  
-**Negatives = 2+2+2+3+3+4 = –16**  
-_(Check carefully: FOMO –2, infinite scroll –2, social pressure –2, celeb –2, AI –3, selling –3, misinformation –4… sum is –2–2–2–2–3–3–4 = –18, not –16. Let’s correct that.)_
-
-**Sum of negatives = – (2 + 2 + 2 + 2 + 3 + 3 + 4) = –18**  
-**Total = 0 – 18 = –18**
+**Negatives = 2+2+2+2+2+3+3+4 = –20**  
+**Total = 0 – 20 = –20**
 
 ---
 
@@ -350,7 +347,7 @@ _(Check carefully: FOMO –2, infinite scroll –2, social pressure –2, celeb 
 2. **Substack**: **–5**
 3. **Mastodon**: **–7**
 4. **Bluesky**: **–8**
-5. **Threads**: **–18**
+5. **Threads**: **–20**
 6. **Snapchat**: **–26**
 7. **YT Shorts**: **–32**
 8. **Instagram**: **–38**
