@@ -98,7 +98,7 @@ Features are split between **white hat** and **black hat** value, and either rec
 
 ---
 
-## 3) `Threads`
+## 3) Threads
 
 |Feature|Presence|Strength|Multiplier|Calculation|
 |---|---|---|---|---|
