@@ -1,6 +1,6 @@
 # Social Benefit Score
 A simple scoring mechanism for grading the benefit impact of social and media platform.
-
+-* Tech Benefit Score
 *Note:* Dualingo is added for white-hat game tactic reference and not meant to be rated as a social or media platform.
 
 ## Frature scoring
