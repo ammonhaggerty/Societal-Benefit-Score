@@ -13,32 +13,48 @@ The **Societal Benefit Score** is a framework for assessing how a digital produc
 Below is the list of features with their base multipliers:
 ### Positive Features
 
-- **Societal benefit focus**: ×3
-- **Encourages IRL** (real-life connection): ×2
-- **Data ownership** (user-owned data, privacy-first): ×2
-- **Opt-out controls** (tools to reduce manipulation): ×1
-- **Badges** (acknowledging positive behavior): ×1
-- **Levels** (structured progress or skill levels): ×1
+- **Societal benefit focus (3x)** 
+	- Company provides a service or actively supports programs that improves societal, community or individual health (mental, social, physical, political)
+- **Encourages IRL (2x)**
+	- Encourages IRL or promotes genuine connection in a meaningful way.
+- **Data ownership (2x)**
+	- Respects use data, has a privacy/user ownership-first model, does not monetize data without asking first and/or provides options for paid service that does not use their data.
+- **Opt-out controls (1x)**
+	- Ability to opt out of neutral and negative attention/motivation tactics.
+- **Badges / Levels (1x)**
+	- Rewards positive behavior with recognition.
 ### Neutral Features
 
-- **Streaks**: ±1
-- **Infinite scroll**: ±1
-- **Video Shorts**: ±2
-- **FOMO** (fear of missing out): ±2
-- **Social pressure**: ±2
-- **Location sharing**: ±2
-- **Celebrity/Influencer culture**: ±2
+- **Streaks (±1)**
+	- Encourages continued use and punishes missing days with a broken streak.
+- **Infinite scroll (±1)**
+	- Perpetual promoted and personalized content.
+- **Video Shorts (±2)**
+	- Promotes quick, addictive, personalized videos in an endless stream.
+- **Fear Of Missing Out (FOMO) (±2)**
+	- Leverages feelings of jealousy, anxiety, and guilt when seeing what others are doing.
+- **Social pressure (±2)**
+	- Triggers social anxiety and stress if ignored.
+- **Location sharing (±2)**
+	- Encourages public realtime location sharing.
+- **Influencer culture (±2)**
+	- Promotes influencer content and provides variable reward mechanics to encourage content influencer aspiration.
 
 > **Note**: Neutral features become **positive** if the product’s primary mission is health, education, or genuine human connection; become **negative** if it’s purely ad-driven or entertainment-focused; or become **zero** if the purpose is somewhat beneficial but also potentially stressful (e.g., LinkedIn and job search).
 
 ### Negative Features
 
 - **AI training** (monetizing user data to train AI): ×2
+	- Uses your private content to train future AI models.
 - **Selling your behavior** (data brokers, advanced ad targeting): ×2
+	- Promotes marketing tools that allow brands to target user behaviors.
 - **Misinformation**: ×3
+	- Either promotes or fails to discourage misinformation.
 - **Mob mentality** (filter bubbles, polarization): ×3
+	- Either promotes or allows highly polarized and mob-like mentality.
 
 These always subtract from the final score, with **strong** presence doubling the penalty.
+
 ## Presence Levels
 
 Each feature on a product is labeled **Strong (S)**, **Moderate (M)**, or **Weak/None (W)**:
