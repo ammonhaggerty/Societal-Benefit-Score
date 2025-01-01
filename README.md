@@ -2,7 +2,9 @@
 
 ## Introduction
 
-The **Societal Benefit Score** is a framework for assessing how a digital product (social network, app, platform, etc.) impacts human well-being. Rather than simply labeling features as “good” or “bad,” this system looks at both a platform’s **purpose** (Does it promote health, education, genuine connection?) and the **intensity** of specific design choices (e.g., streaks, FOMO, misinformation). By calculating a single numeric score, we can see which platforms lean more toward beneficial outcomes—and which lean more toward addictive or exploitative designs. The score value is designed to show if a product or service has a net-positive or net-negative impact on society. Zero is the baseline. 
+The **Societal Benefit Score** is a framework for assessing how a digital product (social network, app, platform, etc.) impacts human well-being. Rather than simply labeling features as “good” or “bad,” this system looks at both a platform’s **purpose** (Does it promote health, education, genuine connection?) and the **intensity** of specific design choices (e.g., streaks, FOMO, misinformation). By calculating a single numeric score, we can see which platforms lean more toward beneficial outcomes—and which lean more toward addictive or exploitative designs. The score value is designed to show if a product or service has a net-positive or net-negative impact on society. Zero is the baseline.
+
+This framework is an independent, personally developed system that reflects an individual interpretation of personal and societal well-being rather than a rigorously peer-reviewed standard. While it is not derived from or formally validated by established academic research, it draws upon recognized principles in user experience, psychology, and social impact. As such, it provides a structured lens that can be valuable to researchers, designers, and practitioners interested in examining how platform features align with (or undermine) well-being.
 
 ## Core Principles
 
