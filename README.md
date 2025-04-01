@@ -10,12 +10,13 @@ This framework is an independent, personally developed system that reflects an i
 
 Here are two examples from an [article I wrote](https://ammon.substack.com/p/human-agency-in-the-age-of-ai-persuasion) on Human Agency in the Age of AI Persuasion:
 
-1. This chart shows dominant social/media services’ feature prominence and their societal benefit score. Anything less than zero has a negative impact on societal health. Dualingo and Strava, two popular for-profit gamified consumer apps, are also included to show how gamification and behavioral tactics can be leveraged for good, and receive a positive score.
-
-![Measuring Societal Benefit](https://github.com/user-attachments/assets/0214a93a-93cb-4f3d-9b2b-43225363bc4c)
+1. This [chart](https://datawrapper.dwcdn.net/9QnKJ/4/) shows dominant social/media services’ feature prominence and their societal benefit score. Anything less than zero has a negative impact on societal health. Dualingo and Strava, two popular for-profit gamified consumer apps, are also included to show how gamification and behavioral tactics can be leveraged for good, and receive a positive score.
 
 
-2. This chart shows the same products with the societal benefit score against the total user base and the amount of value extracted (primarily from paid influence/ad revenue) from a user in one hour of use.
+![Measuring Societal Benefit (1)](https://github.com/user-attachments/assets/04294405-ac89-4b6e-bcab-ab00b3308bca)
+
+
+2. This [chart](https://datawrapper.dwcdn.net/fMwxo/2/) shows the same products with the societal benefit score against the total user base and the amount of value extracted (primarily from paid influence/ad revenue) from a user in one hour of use.
 
 ![Benefit Scale and Value Extraction](https://github.com/user-attachments/assets/3beaeb44-8cdc-4ecd-a151-489f0a98557d)
 
